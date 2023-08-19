@@ -6,8 +6,8 @@
 1. Transformation of models with OpenVINO Optimizer
 2. Test environment with OpenVINO Benchmark
 3. Mobile device camera to acquire frontal photos of users
-4. Ganimation model: Converts photos into 16 photos with different face action units
-5. face_mesh model: capture the position of contours and organs on the face and target expression photos
+4. Self Trained Ganimation model: Converts photos into 16 photos with different face action units
+5. Fien-tuned face_mesh model: capture the position of contours and organs on the face and target expression photos
 6. landmark_accuracy algorithm: compare the difference between the target expression and the position of the user's organs in the camera, and compare the two for similarity
 
 ![螢幕擷取畫面-2022-12-11-231824](https://user-images.githubusercontent.com/74034793/208851206-469da6e5-3134-463c-8201-2df8595528cf.jpg)
